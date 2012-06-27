@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Chat v1.0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-06-27 17:51:11+0000\n"
+"Last-Translator: makrismusic <periklis@makrismusic.gr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: GREECE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: default-layouts/chat-inline.php:14
+#: wordpress-chat.php:1909
+#@ wordpress-chat
+msgid "To get started just enter your email address and desired username"
+msgstr "Για να μπορέσετε να συνομιλήσετε, παρακαλώ πληκτρολογήστε το όνομα χρήστη που επιθυμείτε και το e-mail σας"
+
+#: default-layouts/chat-inline.php:27
+#: wordpress-chat.php:1922
+#@ wordpress-chat
+msgid "You must be logged in to participate in chats"
+msgstr "Πρέπει να έχετε συνδεθεί για να μπορέσετε να συνομιλήσετε"
+
+#: default-layouts/chat-inline.php:38
+#: wordpress-chat.php:1933
+#@ wordpress-chat
+msgid "Chat Logs"
+msgstr "Αρχείο συνομιλιών"
+
+#: wordpress-chat.php:400
+#@ wordpress-chat
+msgid "Chat Plugin Options"
+msgstr "Ρυθμίσεις πρόσθετου Chat"
+
+#: wordpress-chat.php:400
+#: wordpress-chat.php:1810
+#@ wordpress-chat
+msgid "Chat"
+msgstr "Συνομιλία"
+
+#: wordpress-chat.php:643
+#: wordpress-chat.php:935
+#: wordpress-chat.php:1179
+#@ wordpress-chat
+msgid "Play sound when a new message is received?"
+msgstr "Αναπαραγωγή ήχου όταν λαμβάνεται νέο μήνυμα;"
+
+#: wordpress-chat.php:655
+#: wordpress-chat.php:946
+#: wordpress-chat.php:1190
+#@ wordpress-chat
+msgid "Display the user's avatar with the message?"
+msgstr "Προβολή εικόνας χρήστη μαζί με το μήνυμα;"
+
+#: wordpress-chat.php:666
+#: wordpress-chat.php:957
+#: wordpress-chat.php:1201
+#@ wordpress-chat
+msgid "Display emoticons bar?"
+msgstr "Προβολή μπάρας emoticon;"
+
+#: wordpress-chat.php:677
+#: wordpress-chat.php:968
+#: wordpress-chat.php:1212
+#@ wordpress-chat
+msgid "Display date the message was sent?"
+msgstr "Προβολή ημερομηνίας αποστολής του μηνύματος;"
+
+#: wordpress-chat.php:688
+#: wordpress-chat.php:979
+#: wordpress-chat.php:1223
+#@ wordpress-chat
+msgid "Display the time  the message was sent?"
+msgstr "Προβολή της ώρας αποστολής του μηνύματος;"
+
+#: wordpress-chat.php:697
+#: wordpress-chat.php:988
+#: wordpress-chat.php:1232
+#@ wordpress-chat
+msgid "Dimensions of the chat box"
+msgstr "Διαστάσεις του κουτιού συνομιλίας"
+
+#: wordpress-chat.php:714
+#: wordpress-chat.php:1003
+#: wordpress-chat.php:1265
+#@ wordpress-chat
+msgid "Chat box background color"
+msgstr "Φόντο κουτιού συνομιλίας"
+
+#: wordpress-chat.php:723
+#: wordpress-chat.php:1012
+#@ wordpress-chat
+msgid "Chat box background color when there is a new message"
+msgstr "Φόντο κουτιού συνομιλίας όταν έχει ληφθεί νέο μήνυμα"
+
+#: wordpress-chat.php:732
+#@ wordpress-chat
+msgid "Date background color"
+msgstr "Φόντο ημερομηνίας"
+
+#: wordpress-chat.php:741
+#: wordpress-chat.php:1030
+#: wordpress-chat.php:1283
+#@ wordpress-chat
+msgid "Name background color"
+msgstr "Φόντο ονόματος"
+
+#: wordpress-chat.php:750
+#: wordpress-chat.php:1039
+#: wordpress-chat.php:1292
+#@ wordpress-chat
+msgid "Moderator Name background color"
+msgstr "Φόντο ονόματος διαχειριστή"
+
+#: wordpress-chat.php:759
+#: wordpress-chat.php:1048
+#: wordpress-chat.php:1301
+#@ wordpress-chat
+msgid "Text color"
+msgstr "Χρώμα κειμένου"
+
+#: wordpress-chat.php:778
+#: wordpress-chat.php:1066
+#: wordpress-chat.php:1319
+#@ wordpress-chat
+msgid "Chat box font"
+msgstr "Γραμματοσειρά συνομιλιών"
+
+#: wordpress-chat.php:790
+#: wordpress-chat.php:1078
+#: wordpress-chat.php:1330
+#@ wordpress-chat
+msgid "Chat box font size"
+msgstr "Μέγεθος γραμματοσειράς συνομιλιών"
+
+#: wordpress-chat.php:809
+#: wordpress-chat.php:1095
+#@ wordpress-chat
+msgid "Log chat messages?"
+msgstr "Καταγραφή ιστορικού συνομιλιών;"
+
+#: wordpress-chat.php:820
+#: wordpress-chat.php:1106
+#@ wordpress-chat
+msgid "Display chat logs?"
+msgstr "Προβολή ιστορικού συνομιλιών;"
+
+#: wordpress-chat.php:834
+#: wordpress-chat.php:1118
+#: wordpress-chat.php:1342
+#@ wordpress-chat
+msgid "Current user"
+msgstr "Τρέχον χρήστης"
+
+#: wordpress-chat.php:836
+#: wordpress-chat.php:1120
+#: wordpress-chat.php:1344
+#@ wordpress-chat
+msgid "Network user"
+msgstr "Χρήστης δικτύου"
+
+#: wordpress-chat.php:838
+#: wordpress-chat.php:1122
+#: wordpress-chat.php:1346
+#@ wordpress-chat
+msgid "Public user"
+msgstr "Ανώνυμος χρήστης"
+
+#: wordpress-chat.php:840
+#: wordpress-chat.php:1123
+#: wordpress-chat.php:1347
+#@ wordpress-chat
+msgid "Twitter"
+msgstr ""
+
+#: wordpress-chat.php:843
+#: wordpress-chat.php:1124
+#: wordpress-chat.php:1348
+#@ wordpress-chat
+msgid "Facebook"
+msgstr ""
+
+#: wordpress-chat.php:846
+#: wordpress-chat.php:1126
+#: wordpress-chat.php:1350
+#@ wordpress-chat
+msgid "Authentication methods users can use"
+msgstr "Μεθόδοι ταυτοποίησης που μπορούν να χρησιμοποιήσουν οι χρήστες"
+
+#: wordpress-chat.php:860
+#: wordpress-chat.php:1141
+#: wordpress-chat.php:1365
+#@ wordpress-chat
+msgid "Select which roles are moderators"
+msgstr "Επιλέξτε ποιοί ρόλοι μπορούν να είναι διαχειριστές"
+
+#: wordpress-chat.php:908
+#: wordpress-chat.php:1595
+#@ wordpress-chat
+msgid "Chat Settings"
+msgstr "Ρυθμίσεις συνομιλιών"
+
+#: wordpress-chat.php:914
+#@ wordpress-chat
+msgid "In post chat options"
+msgstr "Ρυθμίσεις συνομιλιών μέσα σε καταχωρήσεις"
+
+#: wordpress-chat.php:915
+#@ wordpress-chat
+msgid "Bottom corner chat"
+msgstr "Συνομιλίες κάτω γωνίας"
+
+#: wordpress-chat.php:916
+#@ wordpress-chat
+msgid "Twitter API"
+msgstr ""
+
+#: wordpress-chat.php:917
+#@ wordpress-chat
+msgid "Facebook API"
+msgstr ""
+
+#: wordpress-chat.php:918
+#@ wordpress-chat
+msgid "Advanced"
+msgstr "Προηγμένες"
+
+#: wordpress-chat.php:924
+#: wordpress-chat.php:1167
+#@ wordpress-chat
+msgid "General"
+msgstr "Γενικά"
+
+#: wordpress-chat.php:928
+#: wordpress-chat.php:1172
+#@ wordpress-chat
+msgid "Sound"
+msgstr "Ήχος"
+
+#: wordpress-chat.php:931
+#: wordpress-chat.php:942
+#: wordpress-chat.php:953
+#: wordpress-chat.php:964
+#: wordpress-chat.php:975
+#: wordpress-chat.php:1091
+#: wordpress-chat.php:1102
+#: wordpress-chat.php:1157
+#: wordpress-chat.php:1175
+#: wordpress-chat.php:1186
+#: wordpress-chat.php:1197
+#: wordpress-chat.php:1208
+#: wordpress-chat.php:1219
+#: wordpress-chat.php:1602
+#@ wordpress-chat
+msgid "Enabled"
+msgstr "Ενεργοποιημένο"
+
+#: wordpress-chat.php:932
+#: wordpress-chat.php:943
+#: wordpress-chat.php:954
+#: wordpress-chat.php:965
+#: wordpress-chat.php:976
+#: wordpress-chat.php:1092
+#: wordpress-chat.php:1103
+#: wordpress-chat.php:1158
+#: wordpress-chat.php:1176
+#: wordpress-chat.php:1187
+#: wordpress-chat.php:1198
+#: wordpress-chat.php:1209
+#: wordpress-chat.php:1220
+#: wordpress-chat.php:1603
+#@ wordpress-chat
+msgid "Disabled"
+msgstr "Απενεργοποιημένο"
+
+#: wordpress-chat.php:939
+#: wordpress-chat.php:1183
+#@ wordpress-chat
+msgid "Avatar"
+msgstr "Εικονίδιο"
+
+#: wordpress-chat.php:950
+#: wordpress-chat.php:1194
+#@ wordpress-chat
+msgid "Emoticons"
+msgstr ""
+
+#: wordpress-chat.php:961
+#: wordpress-chat.php:1205
+#@ wordpress-chat
+msgid "Show date"
+msgstr "Προβολή ημερομηνίας"
+
+#: wordpress-chat.php:972
+#: wordpress-chat.php:1216
+#@ wordpress-chat
+msgid "Show time"
+msgstr "Προβολή ώρας"
+
+#: wordpress-chat.php:983
+#: wordpress-chat.php:1227
+#@ wordpress-chat
+msgid "Dimensions"
+msgstr "Διαστάσεις"
+
+#: wordpress-chat.php:994
+#: wordpress-chat.php:1238
+#@ wordpress-chat
+msgid "Colors"
+msgstr "Χρώματα"
+
+#: wordpress-chat.php:998
+#: wordpress-chat.php:1260
+#@ wordpress-chat
+msgid "Background"
+msgstr "Φόντο"
+
+#: wordpress-chat.php:1007
+#@ wordpress-chat
+msgid "Highlighted Background"
+msgstr "Επισημασμένο φόντο"
+
+#: wordpress-chat.php:1016
+#: wordpress-chat.php:1269
+#@ wordpress-chat
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: wordpress-chat.php:1021
+#: wordpress-chat.php:1274
+#@ wordpress-chat
+msgid "Date and time background color"
+msgstr "Φόντο ημερομηνίας και ώρας"
+
+#: wordpress-chat.php:1025
+#: wordpress-chat.php:1278
+#: wordpress-chat.php:2096
+#@ wordpress-chat
+msgid "Name"
+msgstr "Όνομα"
+
+#: wordpress-chat.php:1034
+#: wordpress-chat.php:1287
+#@ wordpress-chat
+msgid "Moderator Name"
+msgstr "Όνομα Διαχειριστή"
+
+#: wordpress-chat.php:1043
+#: wordpress-chat.php:1296
+#@ wordpress-chat
+msgid "Text"
+msgstr "Κείμενο"
+
+#: wordpress-chat.php:1054
+#: wordpress-chat.php:1307
+#@ wordpress-chat
+msgid "Fonts"
+msgstr "Γραμματοσειρές"
+
+#: wordpress-chat.php:1058
+#: wordpress-chat.php:1311
+#@ wordpress-chat
+msgid "Font"
+msgstr "Γραμματοσειρά"
+
+#: wordpress-chat.php:1070
+#: wordpress-chat.php:1323
+#@ wordpress-chat
+msgid "Font size"
+msgstr "Μέγεθος γραμματοσειράς"
+
+#: wordpress-chat.php:1084
+#@ wordpress-chat
+msgid "Logs"
+msgstr "Ιστορικό"
+
+#: wordpress-chat.php:1088
+#@ wordpress-chat
+msgid "Creation"
+msgstr "Δημιουργία"
+
+#: wordpress-chat.php:1099
+#@ wordpress-chat
+msgid "Display"
+msgstr "Προβολή"
+
+#: wordpress-chat.php:1112
+#: wordpress-chat.php:1336
+#@ wordpress-chat
+msgid "Authentication"
+msgstr "Ταυτοποίηση"
+
+#: wordpress-chat.php:1116
+#: wordpress-chat.php:1340
+#@ wordpress-chat
+msgid "Login options"
+msgstr "Επιλογές εισόδου"
+
+#: wordpress-chat.php:1130
+#: wordpress-chat.php:1354
+#@ wordpress-chat
+msgid "Moderator roles"
+msgstr "Ρόλοι διαχειριστή"
+
+#: wordpress-chat.php:1150
+#@ wordpress-chat
+msgid "Main"
+msgstr "Αρχικά"
+
+#: wordpress-chat.php:1154
+#@ wordpress-chat
+msgid "Show"
+msgstr "Προβολή"
+
+#: wordpress-chat.php:1161
+#@ wordpress-chat
+msgid "Display bottom corner chat?"
+msgstr "Προβολή κάτω δεξιά συνομιλίας;"
+
+#: wordpress-chat.php:1242
+#@ wordpress-chat
+msgid "Border"
+msgstr "Περιθώριο"
+
+#: wordpress-chat.php:1247
+#@ wordpress-chat
+msgid "Chat box border color"
+msgstr "Χρώμα περιθωρίου συνομιλίας"
+
+#: wordpress-chat.php:1251
+#@ wordpress-chat
+msgid "Highlighted Border"
+msgstr "Επισημασμένο περιθώριο"
+
+#: wordpress-chat.php:1256
+#@ wordpress-chat
+msgid "Chat box border color when there is a new message"
+msgstr "Χρώμα περιθωρίου όταν υπάρχει νέα συνομιλία"
+
+#: wordpress-chat.php:1374
+#@ wordpress-chat
+msgid "@Anywhere API key"
+msgstr ""
+
+#: wordpress-chat.php:1380
+#, php-format
+#@ wordpress-chat
+msgid "Register this site as an application on Twitter's <a target=\"_blank\" href=\"%s\">app registration page</a>"
+msgstr "Καταχωρήστε αυτό το site ως εφαρμογή στη <a target=\\\"_blank\\\" href=\\\"%s\\\">σελίδα καταχώρησης εφαρμογών</a> του Twitter "
+
+#: wordpress-chat.php:1381
+#@ wordpress-chat
+msgid "If you're not logged in, you can use your Twitter username and password"
+msgstr "Αν δεν έχετε κάνει είσοδο, δε μπορείτε να χρησιμοποιήσετε το όνομα χρήστη και κωδικό στο Twitter"
+
+#: wordpress-chat.php:1382
+#@ wordpress-chat
+msgid "Your Application's Name will be what shows up after \"via\" in your twitter stream"
+msgstr "Το όνομα της εφαρμογής σας είναι αυτό που θα εμφανίζεται μετά το \\\"via\\\" στη ροή του Twitter"
+
+#: wordpress-chat.php:1383
+#@ wordpress-chat
+msgid "Application Type should be set on Browser"
+msgstr "Ο τύπος εφαρμογής (Application type) πρέπει να ρυθμιστεί σε \\\"Browser\\\""
+
+#: wordpress-chat.php:1384
+#@ wordpress-chat
+msgid "The callback URL should be"
+msgstr "Η διεύθυνση URL επανάκλησης (Callback URL) πρέπει να είναι "
+
+#: wordpress-chat.php:1385
+#@ wordpress-chat
+msgid "Once you have registered your site as an application, you will be provided with @Anywhere API key."
+msgstr "Μόλις καταχωρήσετε το site σας σαν εφαρμογή, θα σας δωθεί το @Anywhere API key."
+
+#: wordpress-chat.php:1386
+#: wordpress-chat.php:1406
+#@ wordpress-chat
+msgid "Copy and paste them to the fields on the left"
+msgstr "Αντιγράψτε τα στα πεδία στο αριστερό μέρος"
+
+#: wordpress-chat.php:1396
+#@ wordpress-chat
+msgid "Application id"
+msgstr "Αριθμός εφαρμογής (Application ID)"
+
+#: wordpress-chat.php:1402
+#, php-format
+#@ wordpress-chat
+msgid "Register this site as an application on Facebook's <a target=\"_blank\" href=\"%s\">app registration page</a>"
+msgstr "Καταχωρήστε αυτό το site ως εφαρμογή στη <a target=\\\"_blank\\\" href=\\\"%s\\\">σελίδα καταχώρησης εφαρμογών</a> του Facebook"
+
+#: wordpress-chat.php:1403
+#@ wordpress-chat
+msgid "If you're not logged in, you can use your Facebook username and password"
+msgstr "Αν δεν είστε συνδεμένοι δε μπορείτε να χρησιμοποιήσετε το όνομα χρήστη και τον κωδικό του Facebook"
+
+#: wordpress-chat.php:1404
+#@ wordpress-chat
+msgid "The site URL should be"
+msgstr "Ο σύνδεσμος της ιστοσελίδας πρέπει να είναι"
+
+#: wordpress-chat.php:1405
+#@ wordpress-chat
+msgid "Once you have registered your site as an application, you will be provided with a Application ID and a Application secret."
+msgstr ""
+
+#: wordpress-chat.php:1412
+#@ wordpress-chat
+msgid "Application secret"
+msgstr ""
+
+#: wordpress-chat.php:1423
+#@ wordpress-chat
+msgid "Interval"
+msgstr ""
+
+#: wordpress-chat.php:1438
+#@ wordpress-chat
+msgid "Save Changes"
+msgstr ""
+
+#: wordpress-chat.php:1476
+#@ wordpress-chat
+msgid "Sign out of Facebook"
+msgstr ""
+
+#: wordpress-chat.php:1477
+#@ wordpress-chat
+msgid "Sign out of Twitter"
+msgstr ""
+
+#: wordpress-chat.php:1478
+#@ wordpress-chat
+msgid "Please wait..."
+msgstr ""
+
+#: wordpress-chat.php:1480
+#@ wordpress-chat
+msgid "Minimize"
+msgstr ""
+
+#: wordpress-chat.php:1482
+#: wordpress-chat.php:1811
+#@ wordpress-chat
+msgid "Maximize"
+msgstr ""
+
+#: wordpress-chat.php:1599
+#@ wordpress-chat
+msgid "Chat sounds"
+msgstr ""
+
+#: wordpress-chat.php:1810
+#@ wordpress-chat
+msgid "Click here to chat!"
+msgstr ""
+
+#: wordpress-chat.php:1974
+#@ wordpress-chat
+msgid "Message"
+msgstr ""
+
+#: wordpress-chat.php:1996
+#@ wordpress-chat
+msgid "\"Enter\" to send"
+msgstr "\\\"Enter\\\" για αποστολή"
+
+#: wordpress-chat.php:1996
+#@ wordpress-chat
+msgid "Place code in between [code] tags"
+msgstr "Τοποθετήστε τον κώδικα ανάμεσα σε ετικέτες [code]"
+
+#: wordpress-chat.php:1998
+#@ wordpress-chat
+msgid "Logout"
+msgstr "Έξοδος"
+
+#: wordpress-chat.php:2007
+#@ wordpress-chat
+msgid "Archive"
+msgstr "Αρχείο"
+
+#: wordpress-chat.php:2009
+#@ wordpress-chat
+msgid "Clear"
+msgstr "Καθάρισμα"
+
+#: wordpress-chat.php:2097
+#@ wordpress-chat
+msgid "E-mail"
+msgstr ""
+
+#: wordpress-chat.php:2098
+#@ wordpress-chat
+msgid "Login"
+msgstr "Είσοδος"
+
+#: wordpress-chat.php:2481
+#@ wpmudev
+msgid "Please install the latest version of <a href=\"http://premium.wpmudev.org/project/update-notifications/\" title=\"Download Now &raquo;\">our free Update Notifications plugin</a> which helps you stay up-to-date with the most stable, secure versions of WPMU DEV themes and plugins. <a href=\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-information/\">More information &raquo;</a>"
+msgstr ""
+
